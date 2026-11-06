@@ -1,0 +1,1832 @@
+[
+  {
+    "timestamp": "2026-11-05T20:45:01.304985+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "24110350@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "Modifications Required \u2014 abc \u2014 SAPC-2026-0005",
+    "body": "Dear eswarava,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: abc\nProposal ID: SAPC-2026-0005\nCourse Code: CS-300\nDecision: Modification Required\n\nReviewer Comments:\nStatus updated from dashboard table\n\nNext Steps:\nModifications have been requested by the reviewer. Please review the comments above, revise your course proposal accordingly, and coordinate with the Academic Office.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-05T20:44:23.704079+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "24110350@iitgn.ac.in",
+    "reply_to": "24110350@iitgn.ac.in",
+    "cc": [
+      "killada.valli@iitgn.ac.in"
+    ],
+    "email_type": "Manual Proposal Email",
+    "subject": "SAPC Course Proposal: abc (SAPC-2026-0005)",
+    "body": "Dear Colleague,\n\nPlease find attached the official ACAD-SAPC-01 course proposal for \"abc\" (Proposal ID: SAPC-2026-0005) for your reference and review.\n\nRegards,\neswarava\n\n--------------------------------------------------------------------------------\nProposal Details:\nCourse: abc\nProposal ID: SAPC-2026-0005\nProposer: eswarava (24110350@iitgn.ac.in)\nStatus: Pending\nAn official ACAD-SAPC-01 PDF copy is attached.\n--------------------------------------------------------------------------------\nDispatched by: eswarava (Professor)\nSAPC Course Proposal System \u2014 IIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-05T20:43:34.158255+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "24110350@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 abc (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: abc\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: eswarava (24110350@iitgn.ac.in)\nSubmission Date: 05 November 2026, 08:43 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-05T20:43:34.153852+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "killada.valli@iitgn.ac.in",
+    "reply_to": "24110350@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 abc \u2014 SAPC-2026-0005",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: abc\nProposal ID: SAPC-2026-0005\nCourse Code: CS-300\nSubmitted By: eswarava (24110350@iitgn.ac.in)\nL-T-P-C: 3-0-0-3 (3.0 Credits)\nCourse Level: Level 3\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\neswarava\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-05T20:43:34.147829+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "24110350@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 abc",
+    "body": "Dear eswarava,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nabc\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\neswarava\n\nSubmission Date:\n05 November 2026, 08:43 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=b0GDN332cIDOJlj32bKVI1K5Sv-PVZJ3awUGiE76zig&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-05T20:40:56.482612+00:00",
+    "proposal_id": "SAPC-2026-0004",
+    "recipient": "rajesh.nair@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "SAPC Course Proposal Approved \u2014 DEMO / SAMPLE DATA: Rapid Prototyping and Additive Manufacturing \u2014 SAPC-2026-0004",
+    "body": "Dear Dr. Rajesh Nair,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: DEMO / SAMPLE DATA: Rapid Prototyping and Additive Manufacturing\nProposal ID: SAPC-2026-0004\nCourse Code: ME-300\nDecision: Approved\n\nReviewer Comments:\nStatus updated from dashboard table\n\nNext Steps:\nThe course proposal has been approved by the SAPC Academic Office. It will proceed to official curriculum cataloging and semester scheduling.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:02:00.032038+00:00",
+    "proposal_id": "SAPC-2026-0010",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Status Update Lifecycle Test Course (SAPC-2026-0010)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Status Update Lifecycle Test Course\nProposal ID: SAPC-2026-0010\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.982505+00:00",
+    "proposal_id": "SAPC-2026-0010",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Status Update Lifecycle Test Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nStatus Update Lifecycle Test Course\n\nProposal ID:\nSAPC-2026-0010\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=jXPayKFBaKc8E20Ja6X3fHcBbXJPbhNX_uhwlw_s8oo&proposal_id=SAPC-2026-0010\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.629884+00:00",
+    "proposal_id": "SAPC-2026-0009",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Quantum Computing with Neutral Atoms (SAPC-2026-0009)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Quantum Computing with Neutral Atoms\nProposal ID: SAPC-2026-0009\nDepartment / Type: CS\nProposer: Dr. Satyendra Bose (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.585185+00:00",
+    "proposal_id": "SAPC-2026-0009",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Quantum Computing with Neutral Atoms",
+    "body": "Dear Dr. Satyendra Bose,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nQuantum Computing with Neutral Atoms\n\nProposal ID:\nSAPC-2026-0009\n\nSubmitted By:\nDr. Satyendra Bose\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=Zzu_2qE1vxF0ydD68MxyN-LrfDgzU7pWM93JmmznqKs&proposal_id=SAPC-2026-0009\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.432649+00:00",
+    "proposal_id": "SAPC-2026-0008",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Unique Test Course for Duplicate Check (SAPC-2026-0008)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Unique Test Course for Duplicate Check\nProposal ID: SAPC-2026-0008\nDepartment / Type: CS\nProposer: Dr. Unique Professor (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.404423+00:00",
+    "proposal_id": "SAPC-2026-0008",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Unique Test Course for Duplicate Check",
+    "body": "Dear Dr. Unique Professor,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nUnique Test Course for Duplicate Check\n\nProposal ID:\nSAPC-2026-0008\n\nSubmitted By:\nDr. Unique Professor\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=orI8WyW3_p2IDA_k3mrqrJzydBgujVnlibnjir-tsgA&proposal_id=SAPC-2026-0008\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.275455+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Modified Algorithmic Game Theory (SAPC-2026-0007)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Modified Algorithmic Game Theory\nProposal ID: SAPC-2026-0007\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.228230+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Modified Algorithmic Game Theory",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nModified Algorithmic Game Theory\n\nProposal ID:\nSAPC-2026-0007\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=mN0_qk09otOlKlP6uclm4qHURQhszPraT5w5xERQJBs&proposal_id=SAPC-2026-0007\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.125358+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Advanced Algorithmic Game Theory (SAPC-2026-0006)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Advanced Algorithmic Game Theory\nProposal ID: SAPC-2026-0006\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:59.096908+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Advanced Algorithmic Game Theory",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nAdvanced Algorithmic Game Theory\n\nProposal ID:\nSAPC-2026-0006\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=piE-kXEJTDgMa-byal5ucOJFy_H65UUHJGK_XWDM2rA&proposal_id=SAPC-2026-0006\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:58.899938+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:58.868384+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=ok0RmLyUhmGy5t_p1A7QXTxMYJVIfbsmrbnLA3Fcq6Q&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:58.235471+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Advanced Computer Networks (Quad Format) (SAPC-2026-0007)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Advanced Computer Networks (Quad Format)\nProposal ID: SAPC-2026-0007\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:58.190176+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Advanced Computer Networks (Quad Format)",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nAdvanced Computer Networks (Quad Format)\n\nProposal ID:\nSAPC-2026-0007\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=rMbvD0AWLr25WmVdyj7bKbk2qWv8MLl66sDlBkpsiOM&proposal_id=SAPC-2026-0007\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:58.104791+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Advanced Computer Networks (SAPC-2026-0006)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Advanced Computer Networks\nProposal ID: SAPC-2026-0006\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:58.072267+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Advanced Computer Networks",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nAdvanced Computer Networks\n\nProposal ID:\nSAPC-2026-0006\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=QnzgNEpgAPK13KibekqVFSKngK9Zx1of7E413X508AQ&proposal_id=SAPC-2026-0006\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:57.998424+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Computer Networks and Protocols (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Computer Networks and Protocols\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:57.957150+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Computer Networks and Protocols",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nComputer Networks and Protocols\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=qGVX0Eji9nKKiNEtleFwQYsjnlLumTvj58uAplHIFHI&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:57.348668+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:57.283215+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:57.250025+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=fxecbIQek4rFT9H80aqhhzHDEoSLRvCo-EtqFmyxdT8&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:55.876937+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:55.868910+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=hY0ZYVci8GUjBHh-Z0ioWkadRe9_R7KSd2GnLdmswXM&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:55.116465+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "reviewer@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Manual Proposal Email",
+    "subject": "SAPC Course Proposal Review Request",
+    "body": "Kindly review the attached course proposal.\n\n--------------------------------------------------------------------------------\nProposal Details:\nCourse: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nStatus: Pending\nAn official ACAD-SAPC-01 PDF copy is attached.\n--------------------------------------------------------------------------------\nDispatched by: admin (Academic Office)\nSAPC Course Proposal System \u2014 IIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:55.078030+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "colleague@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [
+      "hod.cse@iitgn.ac.in"
+    ],
+    "email_type": "Manual Proposal Email",
+    "subject": "Please review my SAPC proposal",
+    "body": "Here is the syllabus for our new elective course for review.\n\n--------------------------------------------------------------------------------\nProposal Details:\nCourse: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nStatus: Pending\nAn official ACAD-SAPC-01 PDF copy is attached.\n--------------------------------------------------------------------------------\nDispatched by: Dr. Alok Verma (Professor)\nSAPC Course Proposal System \u2014 IIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:55.028390+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:55.002988+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=01-Dp3tlQV_Sulo1-jhwVsXtiKsrcAfpvxlPHSEIkvE&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:54.237743+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:54.204313+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=X-7h1IE4yncoBU1wxy4nK4_AcO1WLAxFG0lE9pg1Uw4&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:53.529296+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:53.488572+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=dx4bDLuNfLz1jEWPxhsCgI2RmG6YF3hNFj-j1Tq2zig&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:52.822928+00:00",
+    "proposal_id": "SAPC-2026-0029",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 PDF Inline View Test Course (SAPC-2026-0029)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: PDF Inline View Test Course\nProposal ID: SAPC-2026-0029\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:52.798459+00:00",
+    "proposal_id": "SAPC-2026-0029",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 PDF Inline View Test Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nPDF Inline View Test Course\n\nProposal ID:\nSAPC-2026-0029\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=yWL4xJmlwpGlimY-VDLPmwKy9w1psDoIN8TCdcxvtJs&proposal_id=SAPC-2026-0029\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:52.660059+00:00",
+    "proposal_id": "SAPC-2026-0028",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 PDF Download Test Course (SAPC-2026-0028)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: PDF Download Test Course\nProposal ID: SAPC-2026-0028\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:52.627037+00:00",
+    "proposal_id": "SAPC-2026-0028",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 PDF Download Test Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nPDF Download Test Course\n\nProposal ID:\nSAPC-2026-0028\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=-YfjH0WsdJJN3RYNKDRvF2qSj3XoH0_h1GDgaOooC3I&proposal_id=SAPC-2026-0028\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:52.198119+00:00",
+    "proposal_id": "SAPC-2026-0027",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Email Retry Test Course (SAPC-2026-0027)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Email Retry Test Course\nProposal ID: SAPC-2026-0027\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:52.168034+00:00",
+    "proposal_id": "SAPC-2026-0027",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Email Retry Test Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nEmail Retry Test Course\n\nProposal ID:\nSAPC-2026-0027\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=BbK6HC8xJ71uKpb3I9EycOJlEV2TTyxCkZiKbxw_VYk&proposal_id=SAPC-2026-0027\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:52.121802+00:00",
+    "proposal_id": "SAPC-2026-0027",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Email Retry Test Course (SAPC-2026-0027)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Email Retry Test Course\nProposal ID: SAPC-2026-0027\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:52.085278+00:00",
+    "proposal_id": "SAPC-2026-0027",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Email Retry Test Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nEmail Retry Test Course\n\nProposal ID:\nSAPC-2026-0027\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=BbK6HC8xJ71uKpb3I9EycOJlEV2TTyxCkZiKbxw_VYk&proposal_id=SAPC-2026-0027\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.974466+00:00",
+    "proposal_id": "SAPC-2026-0026",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "invalid_recipient_trigger@test.com",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Resilience Against Email Failure Course (SAPC-2026-0026)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Resilience Against Email Failure Course\nProposal ID: SAPC-2026-0026\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (invalid_recipient_trigger@test.com)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.965537+00:00",
+    "proposal_id": "SAPC-2026-0026",
+    "recipient": "invalid_recipient_trigger@test.com",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Resilience Against Email Failure Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nResilience Against Email Failure Course\n\nProposal ID:\nSAPC-2026-0026\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=_cV8sO-T3KafHmd_emmWO8ww7txX3_yuCOnMo0aPxUo&proposal_id=SAPC-2026-0026\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.869981+00:00",
+    "proposal_id": "SAPC-EMAIL-001",
+    "recipient": "maya.sen@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Artificial Intelligence Ethics",
+    "body": "Dear Dr. Maya Sen,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nArtificial Intelligence Ethics\n\nProposal ID:\nSAPC-EMAIL-001\n\nSubmitted By:\nDr. Maya Sen\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.801158+00:00",
+    "proposal_id": "SAPC-2026-0025",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "SAPC Course Proposal Approved \u2014 Course Outbox Verification \u2014 SAPC-2026-0025",
+    "body": "Dear Dr. Aarav Patel,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: Course Outbox Verification\nProposal ID: SAPC-2026-0025\nCourse Code: CS-400\nDecision: Approved\n\nReviewer Comments:\nOutbox audit test\n\nNext Steps:\nThe course proposal has been approved by the SAPC Academic Office. It will proceed to official curriculum cataloging and semester scheduling.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.683655+00:00",
+    "proposal_id": "SAPC-2026-0025",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Outbox Verification (SAPC-2026-0025)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Outbox Verification\nProposal ID: SAPC-2026-0025\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.642459+00:00",
+    "proposal_id": "SAPC-2026-0025",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Outbox Verification",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Outbox Verification\n\nProposal ID:\nSAPC-2026-0025\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=I1WQ3tCU861PuzsdczTs60BWPjJRVki0vkOqPM_mqm8&proposal_id=SAPC-2026-0025\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.470005+00:00",
+    "proposal_id": "SAPC-2026-0024",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Email Failure Status Check (SAPC-2026-0024)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Email Failure Status Check\nProposal ID: SAPC-2026-0024\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.429517+00:00",
+    "proposal_id": "SAPC-2026-0024",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Email Failure Status Check",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Email Failure Status Check\n\nProposal ID:\nSAPC-2026-0024\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=cEPPWCwd3ArzqP-QrFgZLpsByS0DwVSuMQB3CYSiIW4&proposal_id=SAPC-2026-0024\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.339230+00:00",
+    "proposal_id": "SAPC-2026-0023",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Unauthorized Test (SAPC-2026-0023)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Unauthorized Test\nProposal ID: SAPC-2026-0023\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.331662+00:00",
+    "proposal_id": "SAPC-2026-0023",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Unauthorized Test",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Unauthorized Test\n\nProposal ID:\nSAPC-2026-0023\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=MB-_rztnCWLRuIlLsUbfKk4DNpTFHtEyPB1FlrNQuYk&proposal_id=SAPC-2026-0023\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.213461+00:00",
+    "proposal_id": "SAPC-2026-0022",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "Modifications Required \u2014 Course Comments Check \u2014 SAPC-2026-0022",
+    "body": "Dear Dr. Aarav Patel,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: Course Comments Check\nProposal ID: SAPC-2026-0022\nCourse Code: CS-400\nDecision: Modification Required\n\nReviewer Comments:\nSpecific SAPC committee note: Course code recommended is CS-620.\n\nNext Steps:\nModifications have been requested by the reviewer. Please review the comments above, revise your course proposal accordingly, and coordinate with the Academic Office.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.139300+00:00",
+    "proposal_id": "SAPC-2026-0022",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Comments Check (SAPC-2026-0022)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Comments Check\nProposal ID: SAPC-2026-0022\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.129596+00:00",
+    "proposal_id": "SAPC-2026-0022",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Comments Check",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Comments Check\n\nProposal ID:\nSAPC-2026-0022\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=6PEdF1XzJCLZTMMqdi0aU5PH0P3Wx0JN5oxqGqD-sco&proposal_id=SAPC-2026-0022\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:51.039233+00:00",
+    "proposal_id": "SAPC-2026-0021",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "SAPC Course Proposal Approved \u2014 Course Decision Reversal Test \u2014 SAPC-2026-0021",
+    "body": "Dear Dr. Aarav Patel,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: Course Decision Reversal Test\nProposal ID: SAPC-2026-0021\nCourse Code: CS-400\nDecision: Approved\n\nReviewer Comments:\nAppeal reviewed and course approved.\n\nNext Steps:\nThe course proposal has been approved by the SAPC Academic Office. It will proceed to official curriculum cataloging and semester scheduling.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:50.948144+00:00",
+    "proposal_id": "SAPC-2026-0021",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "SAPC Course Proposal Rejected \u2014 Course Decision Reversal Test \u2014 SAPC-2026-0021",
+    "body": "Dear Dr. Aarav Patel,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: Course Decision Reversal Test\nProposal ID: SAPC-2026-0021\nCourse Code: CS-400\nDecision: Rejected\n\nReviewer Comments:\nInitial rejection due to prerequisites\n\nNext Steps:\nThe proposal was not approved in its current formulation. Please review the reviewer comments above. If you wish to discuss this decision or submit an appeal, please contact the Academic Office at ar.ug@iitgn.ac.in.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:50.814700+00:00",
+    "proposal_id": "SAPC-2026-0021",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Decision Reversal Test (SAPC-2026-0021)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Decision Reversal Test\nProposal ID: SAPC-2026-0021\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:50.807570+00:00",
+    "proposal_id": "SAPC-2026-0021",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Decision Reversal Test",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Decision Reversal Test\n\nProposal ID:\nSAPC-2026-0021\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=DD3ZSG63CxyjcoSvUfYsddr6r7_yPs7ubuhJENJgdDc&proposal_id=SAPC-2026-0021\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:50.628538+00:00",
+    "proposal_id": "SAPC-2026-0020",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "SAPC Course Proposal Approved \u2014 Course Repeat Save Test \u2014 SAPC-2026-0020",
+    "body": "Dear Dr. Aarav Patel,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: Course Repeat Save Test\nProposal ID: SAPC-2026-0020\nCourse Code: CS-400\nDecision: Approved\n\nReviewer Comments:\nApproved first time\n\nNext Steps:\nThe course proposal has been approved by the SAPC Academic Office. It will proceed to official curriculum cataloging and semester scheduling.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:50.482902+00:00",
+    "proposal_id": "SAPC-2026-0020",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Repeat Save Test (SAPC-2026-0020)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Repeat Save Test\nProposal ID: SAPC-2026-0020\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:50.467169+00:00",
+    "proposal_id": "SAPC-2026-0020",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Repeat Save Test",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Repeat Save Test\n\nProposal ID:\nSAPC-2026-0020\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=qTEHMJTPAr5am6y2b16ZLM-4C5B4Jz6hoRHTBRWSW0c&proposal_id=SAPC-2026-0020\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:50.227541+00:00",
+    "proposal_id": "SAPC-2026-0019",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Under Active Review (SAPC-2026-0019)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Under Active Review\nProposal ID: SAPC-2026-0019\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:50.218691+00:00",
+    "proposal_id": "SAPC-2026-0019",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Under Active Review",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Under Active Review\n\nProposal ID:\nSAPC-2026-0019\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=ucbAtxC5O0GchqSoRrEPIPuPKlPkecuJ2E3obI1ey34&proposal_id=SAPC-2026-0019\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.975220+00:00",
+    "proposal_id": "SAPC-2026-0018",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Kept As Pending (SAPC-2026-0018)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Kept As Pending\nProposal ID: SAPC-2026-0018\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.964921+00:00",
+    "proposal_id": "SAPC-2026-0018",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Kept As Pending",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Kept As Pending\n\nProposal ID:\nSAPC-2026-0018\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=tFwH3hv0zKsso65dh_9nc9tEw3wSk_Kn9PSesoDQ8Ro&proposal_id=SAPC-2026-0018\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.832384+00:00",
+    "proposal_id": "SAPC-2026-0017",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "Modifications Required \u2014 Course Needing Modification \u2014 SAPC-2026-0017",
+    "body": "Dear Dr. Aarav Patel,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: Course Needing Modification\nProposal ID: SAPC-2026-0017\nCourse Code: CS-400\nDecision: Modification Required\n\nReviewer Comments:\nPlease revise syllabus to include practical laboratory component.\n\nNext Steps:\nModifications have been requested by the reviewer. Please review the comments above, revise your course proposal accordingly, and coordinate with the Academic Office.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.747437+00:00",
+    "proposal_id": "SAPC-2026-0017",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Needing Modification (SAPC-2026-0017)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Needing Modification\nProposal ID: SAPC-2026-0017\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.739195+00:00",
+    "proposal_id": "SAPC-2026-0017",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Needing Modification",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Needing Modification\n\nProposal ID:\nSAPC-2026-0017\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=HgEe5YOYNJxdSSrkZErIveCTIPXVvY72xBx-t9VJJuc&proposal_id=SAPC-2026-0017\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.614220+00:00",
+    "proposal_id": "SAPC-2026-0016",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "SAPC Course Proposal Rejected \u2014 Course To Be Rejected \u2014 SAPC-2026-0016",
+    "body": "Dear Dr. Aarav Patel,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: Course To Be Rejected\nProposal ID: SAPC-2026-0016\nCourse Code: CS-400\nDecision: Rejected\n\nReviewer Comments:\nSignificant content overlap with existing course CS-501.\n\nNext Steps:\nThe proposal was not approved in its current formulation. Please review the reviewer comments above. If you wish to discuss this decision or submit an appeal, please contact the Academic Office at ar.ug@iitgn.ac.in.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.539011+00:00",
+    "proposal_id": "SAPC-2026-0016",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course To Be Rejected (SAPC-2026-0016)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course To Be Rejected\nProposal ID: SAPC-2026-0016\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.530645+00:00",
+    "proposal_id": "SAPC-2026-0016",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course To Be Rejected",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse To Be Rejected\n\nProposal ID:\nSAPC-2026-0016\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=V0FEac0O9swGRKguxO6u1W8mPh4RTT7-UZaD-dPifwE&proposal_id=SAPC-2026-0016\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.399252+00:00",
+    "proposal_id": "SAPC-2026-0015",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "SAPC Course Proposal Approved \u2014 Course To Be Approved \u2014 SAPC-2026-0015",
+    "body": "Dear Dr. Aarav Patel,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: Course To Be Approved\nProposal ID: SAPC-2026-0015\nCourse Code: CS-400\nDecision: Approved\n\nReviewer Comments:\nMeets all academic curriculum criteria.\n\nNext Steps:\nThe course proposal has been approved by the SAPC Academic Office. It will proceed to official curriculum cataloging and semester scheduling.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.190778+00:00",
+    "proposal_id": "SAPC-2026-0015",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "faculty.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course To Be Approved (SAPC-2026-0015)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course To Be Approved\nProposal ID: SAPC-2026-0015\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (faculty.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:49.150361+00:00",
+    "proposal_id": "SAPC-2026-0015",
+    "recipient": "faculty.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course To Be Approved",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse To Be Approved\n\nProposal ID:\nSAPC-2026-0015\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=wimKP28XWeEmd1EZSSKiJeZm8yLJMlZPGGiyrVzCRCU&proposal_id=SAPC-2026-0015\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:48.182670+00:00",
+    "proposal_id": "SAPC-2026-0014",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Duplicate Guard Course (SAPC-2026-0014)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Duplicate Guard Course\nProposal ID: SAPC-2026-0014\nDepartment / Type: CS\nProposer: Prof. Submitter (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:48.150383+00:00",
+    "proposal_id": "SAPC-2026-0014",
+    "recipient": "hod@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Duplicate Guard Course \u2014 SAPC-2026-0014",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Duplicate Guard Course\nProposal ID: SAPC-2026-0014\nCourse Code: CS-400\nSubmitted By: Prof. Submitter (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nProf. Submitter\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:48.107868+00:00",
+    "proposal_id": "SAPC-2026-0014",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Duplicate Guard Course",
+    "body": "Dear Prof. Submitter,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nDuplicate Guard Course\n\nProposal ID:\nSAPC-2026-0014\n\nSubmitted By:\nProf. Submitter\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=okDD7uhMTUKXfINRlsD3Fl4S9iVkHu8VLOeVAAMxRYM&proposal_id=SAPC-2026-0014\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:48.026089+00:00",
+    "proposal_id": "SAPC-2026-0013",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Resilience When CC Email Fails Course (SAPC-2026-0013)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Resilience When CC Email Fails Course\nProposal ID: SAPC-2026-0013\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:48.015569+00:00",
+    "proposal_id": "SAPC-2026-0013",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Resilience When CC Email Fails Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nResilience When CC Email Fails Course\n\nProposal ID:\nSAPC-2026-0013\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=u7T8n4nWnh4DNaonN1GXPagNZjyZVrGlRKvEvL3c_y8&proposal_id=SAPC-2026-0013\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.901086+00:00",
+    "proposal_id": "SAPC-2026-0012",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course With PDF Attachment Check (SAPC-2026-0012)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course With PDF Attachment Check\nProposal ID: SAPC-2026-0012\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.859603+00:00",
+    "proposal_id": "SAPC-2026-0012",
+    "recipient": "recipient.pdf@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With PDF Attachment Check \u2014 SAPC-2026-0012",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With PDF Attachment Check\nProposal ID: SAPC-2026-0012\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.817799+00:00",
+    "proposal_id": "SAPC-2026-0012",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course With PDF Attachment Check",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse With PDF Attachment Check\n\nProposal ID:\nSAPC-2026-0012\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=pnNbs5WX2UvlOIYEZDric7BA3swtt3C5aZ66vICXtxY&proposal_id=SAPC-2026-0012\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.710941+00:00",
+    "proposal_id": "SAPC-2026-0011",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Order Of Operations Verification Course (SAPC-2026-0011)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Order Of Operations Verification Course\nProposal ID: SAPC-2026-0011\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.670015+00:00",
+    "proposal_id": "SAPC-2026-0011",
+    "recipient": "colleague.audit@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Order Of Operations Verification Course \u2014 SAPC-2026-0011",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Order Of Operations Verification Course\nProposal ID: SAPC-2026-0011\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.636619+00:00",
+    "proposal_id": "SAPC-2026-0011",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Order Of Operations Verification Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nOrder Of Operations Verification Course\n\nProposal ID:\nSAPC-2026-0011\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=HsnbrEiEZaV-z34qGSlfJrKX2Vd6Hc8Gkb6oLOGwlbA&proposal_id=SAPC-2026-0011\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.538064+00:00",
+    "proposal_id": "SAPC-2026-0010",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Persistence Verification Course (SAPC-2026-0010)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Persistence Verification Course\nProposal ID: SAPC-2026-0010\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.498472+00:00",
+    "proposal_id": "SAPC-2026-0010",
+    "recipient": "p2@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Persistence Verification Course \u2014 SAPC-2026-0010",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Persistence Verification Course\nProposal ID: SAPC-2026-0010\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.453336+00:00",
+    "proposal_id": "SAPC-2026-0010",
+    "recipient": "p1@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Persistence Verification Course \u2014 SAPC-2026-0010",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Persistence Verification Course\nProposal ID: SAPC-2026-0010\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.406055+00:00",
+    "proposal_id": "SAPC-2026-0010",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Persistence Verification Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nPersistence Verification Course\n\nProposal ID:\nSAPC-2026-0010\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=PtCI4OHD72k20Jxy55iQT81Y9_RpBr9nmIlavNOCvDc&proposal_id=SAPC-2026-0010\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.307116+00:00",
+    "proposal_id": "SAPC-2026-0009",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "submitter.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course With Duplicate and Submitter CC (SAPC-2026-0009)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course With Duplicate and Submitter CC\nProposal ID: SAPC-2026-0009\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (submitter.proposer@iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.280647+00:00",
+    "proposal_id": "SAPC-2026-0009",
+    "recipient": "colleague@iitgn.ac.in",
+    "reply_to": "submitter.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With Duplicate and Submitter CC \u2014 SAPC-2026-0009",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With Duplicate and Submitter CC\nProposal ID: SAPC-2026-0009\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (submitter.proposer@iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.239796+00:00",
+    "proposal_id": "SAPC-2026-0009",
+    "recipient": "hod.cse@iitgn.ac.in",
+    "reply_to": "submitter.proposer@iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With Duplicate and Submitter CC \u2014 SAPC-2026-0009",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With Duplicate and Submitter CC\nProposal ID: SAPC-2026-0009\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (submitter.proposer@iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.201653+00:00",
+    "proposal_id": "SAPC-2026-0009",
+    "recipient": "submitter.proposer@iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course With Duplicate and Submitter CC",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse With Duplicate and Submitter CC\n\nProposal ID:\nSAPC-2026-0009\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=dObYxY0vV7-Q-f4iTN-Fo6xx1sjumOQVlnp3gMb18GE&proposal_id=SAPC-2026-0009\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.108414+00:00",
+    "proposal_id": "SAPC-2026-0008",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course With Whitespace In CC (SAPC-2026-0008)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course With Whitespace In CC\nProposal ID: SAPC-2026-0008\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.074949+00:00",
+    "proposal_id": "SAPC-2026-0008",
+    "recipient": "hod@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With Whitespace In CC \u2014 SAPC-2026-0008",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With Whitespace In CC\nProposal ID: SAPC-2026-0008\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.035393+00:00",
+    "proposal_id": "SAPC-2026-0008",
+    "recipient": "dean@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With Whitespace In CC \u2014 SAPC-2026-0008",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With Whitespace In CC\nProposal ID: SAPC-2026-0008\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:47.001548+00:00",
+    "proposal_id": "SAPC-2026-0008",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course With Whitespace In CC",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse With Whitespace In CC\n\nProposal ID:\nSAPC-2026-0008\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=Gs6VKzXJ5UBxrbYOuUOj94Gbq9NUb7T2QqoJZnI3Vp0&proposal_id=SAPC-2026-0008\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.910150+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course With Multiple CC Recipients (SAPC-2026-0007)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course With Multiple CC Recipients\nProposal ID: SAPC-2026-0007\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.867910+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "dean.acad@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With Multiple CC Recipients \u2014 SAPC-2026-0007",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With Multiple CC Recipients\nProposal ID: SAPC-2026-0007\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.834173+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "prof.sharma@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With Multiple CC Recipients \u2014 SAPC-2026-0007",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With Multiple CC Recipients\nProposal ID: SAPC-2026-0007\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.802067+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "hod.cse@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With Multiple CC Recipients \u2014 SAPC-2026-0007",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With Multiple CC Recipients\nProposal ID: SAPC-2026-0007\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.791897+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course With Multiple CC Recipients",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse With Multiple CC Recipients\n\nProposal ID:\nSAPC-2026-0007\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=fWXXlem3wDZDwbBqm_iSqroSUXxE6g4AzsZ9wPB_0ks&proposal_id=SAPC-2026-0007\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.659882+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course With One CC Recipient (SAPC-2026-0006)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course With One CC Recipient\nProposal ID: SAPC-2026-0006\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.614807+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "hod.cse@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 Course With One CC Recipient \u2014 SAPC-2026-0006",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: Course With One CC Recipient\nProposal ID: SAPC-2026-0006\nCourse Code: CS-400\nSubmitted By: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nL-T-P-C: 3-1-0-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. Aarav Patel\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.578404+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course With One CC Recipient",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse With One CC Recipient\n\nProposal ID:\nSAPC-2026-0006\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=iG4xgZxHxqed_ySkDFcj0Cg33xzCRk3tI_YFp0K1i-g&proposal_id=SAPC-2026-0006\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.460091+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Course Without Additional Recipients (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Course Without Additional Recipients\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 08:01 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T20:01:46.412995+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Course Without Additional Recipients",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nCourse Without Additional Recipients\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 08:01 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=xKiqV4shk8O65Xc46qQqSZEydyWcXGuLL5QQcJiCQWY&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:58.537367+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "e2e.instructor@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [],
+    "email_type": "Decision Notification",
+    "subject": "SAPC Course Proposal Approved \u2014 End-to-End Quantum Machine Learning \u2014 SAPC-2026-0005",
+    "body": "Dear Dr. E2E Instructor,\n\nThis is an official communication regarding your course proposal submitted through the SAPC Course Proposal System, IIT Gandhinagar.\n\nCourse: End-to-End Quantum Machine Learning\nProposal ID: SAPC-2026-0005\nCourse Code: CS-400\nDecision: Approved\n\nReviewer Comments:\nSenate Academic Programme Committee approved without objections.\n\nNext Steps:\nThe course proposal has been approved by the SAPC Academic Office. It will proceed to official curriculum cataloging and semester scheduling.\n\nRegards,\nAcademic Office\nSenate Academic Programme Committee (SAPC)\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:58.305492+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "e2e.instructor@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 End-to-End Quantum Machine Learning (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: End-to-End Quantum Machine Learning\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. E2E Instructor (e2e.instructor@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:58.270941+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "colleague@test.iitgn.ac.in",
+    "reply_to": "e2e.instructor@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 End-to-End Quantum Machine Learning \u2014 SAPC-2026-0005",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: End-to-End Quantum Machine Learning\nProposal ID: SAPC-2026-0005\nCourse Code: CS-400\nSubmitted By: Dr. E2E Instructor (e2e.instructor@test.iitgn.ac.in)\nL-T-P-C: 3-0-2-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. E2E Instructor\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:58.221539+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "hod.cse@test.iitgn.ac.in",
+    "reply_to": "e2e.instructor@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Proposal Copy (CC)",
+    "subject": "Course Proposal for Review \u2014 End-to-End Quantum Machine Learning \u2014 SAPC-2026-0005",
+    "body": "Dear Colleague,\n\nPlease find the attached course proposal submitted through the SAPC Course Proposal Platform for your review.\n\nCourse: End-to-End Quantum Machine Learning\nProposal ID: SAPC-2026-0005\nCourse Code: CS-400\nSubmitted By: Dr. E2E Instructor (e2e.instructor@test.iitgn.ac.in)\nL-T-P-C: 3-0-2-4 (4.0 Credits)\nCourse Level: Level 4\nCourse Duration: 4 Quads (Full Semester)\n\nRegards,\nDr. E2E Instructor\n(Dispatched via SAPC Course Proposal Platform, IIT Gandhinagar)\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:58.175606+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "e2e.instructor@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 End-to-End Quantum Machine Learning",
+    "body": "Dear Dr. E2E Instructor,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nEnd-to-End Quantum Machine Learning\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. E2E Instructor\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=hhPOQgiT8O0mkKGwCxE3wyUJvMVZ7uj29t_BvyFc51A&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:57.435372+00:00",
+    "proposal_id": "SAPC-2026-0010",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Status Update Lifecycle Test Course (SAPC-2026-0010)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Status Update Lifecycle Test Course\nProposal ID: SAPC-2026-0010\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:57.393769+00:00",
+    "proposal_id": "SAPC-2026-0010",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Status Update Lifecycle Test Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nStatus Update Lifecycle Test Course\n\nProposal ID:\nSAPC-2026-0010\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=scggL8jBoKkgUFqwc499OzLasosqVNbJtAVC2E8O5Yw&proposal_id=SAPC-2026-0010\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:57.271102+00:00",
+    "proposal_id": "SAPC-2026-0009",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Quantum Computing with Neutral Atoms (SAPC-2026-0009)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Quantum Computing with Neutral Atoms\nProposal ID: SAPC-2026-0009\nDepartment / Type: CS\nProposer: Dr. Satyendra Bose (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:57.233906+00:00",
+    "proposal_id": "SAPC-2026-0009",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Quantum Computing with Neutral Atoms",
+    "body": "Dear Dr. Satyendra Bose,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nQuantum Computing with Neutral Atoms\n\nProposal ID:\nSAPC-2026-0009\n\nSubmitted By:\nDr. Satyendra Bose\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=X4qqaucJMn4vSRtpLniSF90HboWn1cqKXs5MHx3_Oc4&proposal_id=SAPC-2026-0009\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:56.918654+00:00",
+    "proposal_id": "SAPC-2026-0008",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Unique Test Course for Duplicate Check (SAPC-2026-0008)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Unique Test Course for Duplicate Check\nProposal ID: SAPC-2026-0008\nDepartment / Type: CS\nProposer: Dr. Unique Professor (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:56.875710+00:00",
+    "proposal_id": "SAPC-2026-0008",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Unique Test Course for Duplicate Check",
+    "body": "Dear Dr. Unique Professor,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nUnique Test Course for Duplicate Check\n\nProposal ID:\nSAPC-2026-0008\n\nSubmitted By:\nDr. Unique Professor\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=mU9XGsMuUMHVQsvGwMkBxauA5186eoeVS4DAdMLoLLM&proposal_id=SAPC-2026-0008\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:56.775756+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Modified Algorithmic Game Theory (SAPC-2026-0007)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Modified Algorithmic Game Theory\nProposal ID: SAPC-2026-0007\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:56.734732+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Modified Algorithmic Game Theory",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nModified Algorithmic Game Theory\n\nProposal ID:\nSAPC-2026-0007\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=fhBFmZvDPiXzEZSIYHCbqYIErZTFOmdGavhFdXi4pqI&proposal_id=SAPC-2026-0007\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:56.554011+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Advanced Algorithmic Game Theory (SAPC-2026-0006)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Advanced Algorithmic Game Theory\nProposal ID: SAPC-2026-0006\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:56.512248+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Advanced Algorithmic Game Theory",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nAdvanced Algorithmic Game Theory\n\nProposal ID:\nSAPC-2026-0006\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=VIM4k7274qAjbVRDdY55irhSMdiNkM2oWl_ESYPnnQ4&proposal_id=SAPC-2026-0006\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:56.254986+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:56.208535+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=p9TGAezxUtXcRljHtwq_QdGNHS_Qx2vpBwBcXvl7phs&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:55.518486+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Advanced Computer Networks (Quad Format) (SAPC-2026-0007)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Advanced Computer Networks (Quad Format)\nProposal ID: SAPC-2026-0007\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:55.494428+00:00",
+    "proposal_id": "SAPC-2026-0007",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Advanced Computer Networks (Quad Format)",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nAdvanced Computer Networks (Quad Format)\n\nProposal ID:\nSAPC-2026-0007\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=S1jBV7cNinDTXxUGWXA2sNEm0spKiRr9TdXSYdHHuHY&proposal_id=SAPC-2026-0007\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:55.384708+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Advanced Computer Networks (SAPC-2026-0006)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Advanced Computer Networks\nProposal ID: SAPC-2026-0006\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:55.348745+00:00",
+    "proposal_id": "SAPC-2026-0006",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Advanced Computer Networks",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nAdvanced Computer Networks\n\nProposal ID:\nSAPC-2026-0006\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=sJzhQR7j1T3OJ6Fj2UTTnwB4K0WAkBPaEKCqemn_tQM&proposal_id=SAPC-2026-0006\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:55.240705+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Computer Networks and Protocols (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Computer Networks and Protocols\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:55.208484+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Computer Networks and Protocols",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nComputer Networks and Protocols\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=Si9zozZn-8Zf616YXaHBDLePfx2mqrwu3yPdBoQMRKU&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:54.520995+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:54.437823+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:54.394516+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=20Q55QRL0zH4B-tC1zb-5NJfZ1zC3Hgsi0qbv1KqwEM&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:52.811129+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:52.802318+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=7pGzCPjPDCnJR-O5mTScyFDxMK6FLHSkHcktykUorbQ&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:51.982630+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "reviewer@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Manual Proposal Email",
+    "subject": "SAPC Course Proposal Review Request",
+    "body": "Kindly review the attached course proposal.\n\n--------------------------------------------------------------------------------\nProposal Details:\nCourse: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nStatus: Pending\nAn official ACAD-SAPC-01 PDF copy is attached.\n--------------------------------------------------------------------------------\nDispatched by: admin (Academic Office)\nSAPC Course Proposal System \u2014 IIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:51.930644+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "colleague@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [
+      "hod.cse@iitgn.ac.in"
+    ],
+    "email_type": "Manual Proposal Email",
+    "subject": "Please review my SAPC proposal",
+    "body": "Here is the syllabus for our new elective course for review.\n\n--------------------------------------------------------------------------------\nProposal Details:\nCourse: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nStatus: Pending\nAn official ACAD-SAPC-01 PDF copy is attached.\n--------------------------------------------------------------------------------\nDispatched by: Dr. Alok Verma (Professor)\nSAPC Course Proposal System \u2014 IIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:51.839574+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:51.797913+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=To2fJHpXN8BA75J8yPtDtWtqNTh8v02yDVlI6UCgS14&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:50.852848+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:50.820596+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=8yXC9N23ANS_vOFcsX8pbzDsEcQXUFJ1UKmC6yYrmas&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:49.997782+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "alok.verma@demo.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems (SAPC-2026-0005)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: Introduction to Deep Learning and Neural Systems\nProposal ID: SAPC-2026-0005\nDepartment / Type: CS\nProposer: Dr. Alok Verma (alok.verma@demo.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:49.961605+00:00",
+    "proposal_id": "SAPC-2026-0005",
+    "recipient": "alok.verma@demo.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 Introduction to Deep Learning and Neural Systems",
+    "body": "Dear Dr. Alok Verma,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nIntroduction to Deep Learning and Neural Systems\n\nProposal ID:\nSAPC-2026-0005\n\nSubmitted By:\nDr. Alok Verma\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=33FkZU_Kj8_czWvy-y401SanOxCN-_ZcrRNcrI87cQ4&proposal_id=SAPC-2026-0005\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:49.240881+00:00",
+    "proposal_id": "SAPC-2026-0029",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 PDF Inline View Test Course (SAPC-2026-0029)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: PDF Inline View Test Course\nProposal ID: SAPC-2026-0029\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:49.204101+00:00",
+    "proposal_id": "SAPC-2026-0029",
+    "recipient": "aarav.patel@test.iitgn.ac.in",
+    "reply_to": null,
+    "cc": [
+      "ar.ug@iitgn.ac.in",
+      "doaa@iitgn.ac.in"
+    ],
+    "email_type": "Submission Confirmation",
+    "subject": "SAPC Course Proposal Submitted \u2014 PDF Inline View Test Course",
+    "body": "Dear Dr. Aarav Patel,\n\nA course proposal has been successfully submitted through the SAPC Course Proposal System.\n\nCourse:\nPDF Inline View Test Course\n\nProposal ID:\nSAPC-2026-0029\n\nSubmitted By:\nDr. Aarav Patel\n\nSubmission Date:\n03 November 2026, 07:49 PM UTC\n\nSecure Proposal Edit Link (Unguessable URL):\nhttp://localhost:5173/?edit_token=nJCrhqhGDDPXIuR2RNi4eJlTDOU8ZHH1-EjmY4iGDW4&proposal_id=SAPC-2026-0029\nYou can use this secure link to edit your proposal prior to the submission deadline.\n\n\nThe submitted proposal is available in the Academic Office dashboard.\n\nRegards,\nSAPC Course Proposal System\nIIT Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  },
+  {
+    "timestamp": "2026-11-03T19:49:49.053026+00:00",
+    "proposal_id": "SAPC-2026-0028",
+    "recipient": "security@iitgn.ac.in",
+    "reply_to": "aarav.patel@test.iitgn.ac.in",
+    "cc": [],
+    "email_type": "Security Department Notification",
+    "subject": "[SAPC Security Notification] New Course Proposal Submitted \u2014 PDF Download Test Course (SAPC-2026-0028)",
+    "body": "Dear Security Department,\n\nA new course proposal has been formally submitted in the SAPC Course Proposal System:\n\nCourse Title: PDF Download Test Course\nProposal ID: SAPC-2026-0028\nDepartment / Type: CS\nProposer: Dr. Aarav Patel (aarav.patel@test.iitgn.ac.in)\nSubmission Date: 03 November 2026, 07:49 PM UTC\n\nAn official ACAD-SAPC-01 PDF copy is attached for Security Department records and institutional archive.\n\nRegards,\nAcademic Office / SAPC\nIndian Institute of Technology Gandhinagar\n",
+    "status": "Simulated Delivered (Local Mailbox)"
+  }
+]

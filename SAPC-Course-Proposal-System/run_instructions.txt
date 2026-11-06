@@ -1,0 +1,42 @@
+================================================================================
+SAPC COURSE PROPOSAL SYSTEM — PHASE 1 RUN INSTRUCTIONS
+Indian Institute of Technology Gandhinagar | CS202 Project 13
+================================================================================
+
+PREREQUISITES:
+  - Python 3.10+ installed
+  - Node.js 18+ installed
+
+--------------------------------------------------------------------------------
+1. START THE BACKEND SERVER (Terminal 1):
+--------------------------------------------------------------------------------
+cd backend
+python -m pip install -r requirements.txt
+python run.py
+
+Server starts at: http://localhost:5000
+(Initializes database, demo proposals, and sample PDFs automatically)
+
+--------------------------------------------------------------------------------
+2. START THE FRONTEND (Terminal 2):
+--------------------------------------------------------------------------------
+cd frontend
+npm install
+npm run dev
+
+Frontend starts at: http://localhost:5173
+
+--------------------------------------------------------------------------------
+3. ADMIN CREDENTIALS:
+--------------------------------------------------------------------------------
+Username: admin
+Password: Admin@IITGN2026
+(Use the "Auto-fill demo credentials" button in the Admin Login modal)
+
+--------------------------------------------------------------------------------
+4. RUN TESTS:
+--------------------------------------------------------------------------------
+Backend tests:     cd backend && python -m pytest -v
+Frontend tests:    cd frontend && npm test
+Integration tests: python -m pytest tests/test_integration_flow.py -v
+================================================================================
